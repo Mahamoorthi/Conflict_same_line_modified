@@ -1,0 +1,1 @@
+print("name: maha", "age: 23" )
